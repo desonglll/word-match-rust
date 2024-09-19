@@ -1,0 +1,8 @@
+[package]
+name = "word-match"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tqdm = "0.7.0" # 用于进度条
+regex = "1" # 用于正则表达式
